@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="io.cucumber:cucumber-java:jar:6.1.1 or io.cucumber:">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.0.13/logback-classic-1.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
